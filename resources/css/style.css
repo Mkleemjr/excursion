@@ -4,17 +4,31 @@ body {
   font-family: Verdana;
 }
 
-h1 {
-  font-weight: 300px;
-
-}
-
-h5 {
-  text-align: right;
-  color: gray;
-}
-
 .head {
+  font-weight: normal;
+  font-size: 50px;
+
+}
+
+.sub-head {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.he-color {
   color: white;
-  
+}
+
+.interest {
+  color: gray;
+  font-size: 21px;
+}
+
+.align {
+  text-align: right;
+}
+
+.she-color {
+  color: aquamarine;
+  font-size: 16px;
 }
